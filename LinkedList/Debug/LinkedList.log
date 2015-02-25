@@ -1,0 +1,14 @@
+﻿Build started 2/25/2015 5:44:11 PM.
+     1>Project "C:\Users\Ioan\documents\visual studio 2013\Projects\LinkedList\LinkedList\LinkedList.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (LinkedList.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         W:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         W:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ioan\documents\visual studio 2013\Projects\LinkedList\Debug\LinkedListSingly.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ioan\documents\visual studio 2013\Projects\LinkedList\Debug\LinkedListSingly.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ioan\documents\visual studio 2013\Projects\LinkedList\Debug\LinkedListSingly.lib" /MACHINE:X86 Debug\Main.obj
+         LinkedList.vcxproj -> C:\Users\Ioan\documents\visual studio 2013\Projects\LinkedList\Debug\LinkedListSingly.exe
+     1>Done Building Project "C:\Users\Ioan\documents\visual studio 2013\Projects\LinkedList\LinkedList\LinkedList.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.60
